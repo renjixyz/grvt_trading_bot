@@ -1,0 +1,16 @@
+{
+  "env": "prod",
+  "api_key": "",
+  "signer_private_key": "",
+  "sub_account_id": "",
+  "instrument": "",
+
+  "order_expiry_h": 1,
+  "dry_run": false,
+  "trade_size_pct": 0.8,
+  "max_exposure_pct": 0.9,
+  "buy_timeout_sec": 10,
+  "entry_calm_bps": 1.5,
+  "entry_calm_sec": 10,
+  "stale_bps": 1.5
+}
