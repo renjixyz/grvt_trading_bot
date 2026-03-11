@@ -3,7 +3,7 @@
   "api_key": "",
   "signer_private_key": "",
   "sub_account_id": "",
-  "instrument": "",
+  "instrument": "BTC_USD",
 
   "order_expiry_h": 1,
   "dry_run": false,
