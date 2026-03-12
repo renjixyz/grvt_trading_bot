@@ -2,7 +2,7 @@
 
 A two-sided market-making bot for the [GRVT](https://grvt.io) perpetual futures exchange. It places limit orders on both sides of the book, captures the spread when either side fills, and manages positions back to flat with configurable risk limits.
 
-Built by CTRL Contact [X](https://https://x.com/ministryofdefi) or [Telegram](https://t.me/jayctrl) if you need help in running the bot
+Built by CTRL Contact us at [X](https://https://x.com/ministryofdefi) or [Telegram](https://t.me/jayctrl) if you need help in running the bot
 ---
 
 ## Table of Contents
