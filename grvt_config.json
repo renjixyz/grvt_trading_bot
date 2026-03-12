@@ -2,11 +2,11 @@
   "api_key": "enter your api key",
   "signer_private_key": "enter your signer private key",
   "sub_account_id": "enter your sub account id",
-  "instrument": "enter your instrument",
+  "instrument": "HYPE_USDT_Perp",
   "env": "testnet",
 
   "order_size": 0.002,
-  "tick_size": 0.5,
+  "tick_size": 0.001,
   "order_expiry_h": 1.0,
   "dry_run": false,
 
